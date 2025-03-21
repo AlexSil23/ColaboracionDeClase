@@ -21,8 +21,4 @@ public class Socio {
 	public void imprimir() {
 		System.out.println("El Socio "+nombre+" tiene "+antiguedad+" año de antiguedad.");
 	}
-	
-
-
-
 }
